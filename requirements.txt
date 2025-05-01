@@ -1,0 +1,18 @@
+#python libraries:
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tkinter(GUI)
+
+#code editors:
+
+jupyter notebook 
+
+#FSD-related
+
+HTML
+CSS
+javascript
